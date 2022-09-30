@@ -1,0 +1,49 @@
+------------------------------
+MOST VARIABLES SHOULD BE DEFINED IN MAIN, THEN IMPORTED TO OTHERS, NOT IMPORTED INTO MAIN FROM OTHERS
+(BIOMES, ETC...)
+-----
+
+Arm "target" variable is literally just swordpos...
+Nevermind its not!!!!!!
+
+#Placed blocks broken is deleting blue boxes
+
+
+REDUCE CYCLOMATIC COMPLEXITY!!!! IT'S AT 42!!!!
+
+
+Add 3 weapons - sword, crossbow, and one more thing
+
+Placed blocks
+- Block bullets but break block
+- 
+
+---Boss box---
+-
+-
+-
+-
+-
+
+---Enemies---
+- Movement
+  -- Make sure they can't move on placed blocks
+  -- AI towards player
+- Attacking
+- Spawning
+- Unrender handling
+- Different types
+- Health
+- Loot
+
+Slow down character --- NO HOLDING WASD
+
+Improve Biomes - Material collection, etc.
+
+Remove equations - functions, files
+
+Chests
+
+----------------
+ADD NEW SCREENS: MENU, STARTGAME, DEATH
+-----------------------------------
